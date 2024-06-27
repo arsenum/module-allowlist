@@ -1,0 +1,33 @@
+[
+    {
+      "ModuleId": "lilypad-tech/cowsay",
+      "Version": "v0.0.4",
+      "Enabled": true
+    },
+    {
+      "ModuleId": "lilypad-tech/sdxl-pipeline",
+      "Version": "v1.2.0",
+      "Enabled": true
+    },
+    {
+      "ModuleId": "lilypad-tech/sdv-pipeline",
+      "Version": "v1.1.0",
+      "Enabled": true
+    },
+    {
+      "ModuleId": "lilypad-tech/ollama-pipeline",
+      "Version": "v2.0.0",
+      "Enabled": true
+    },
+    {
+      "ModuleId": "lilypad-tech/lilysay",
+      "Version": "v0.0.1",
+      "Enabled": true
+    },
+    {
+      "ModuleId": "lily-synthetizoor",
+      "Version": "v0.3.0",
+      "Enabled": true
+    }
+  ]
+  

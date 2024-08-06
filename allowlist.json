@@ -29,5 +29,10 @@
       "Version": "v0.3.0",
       "Enabled": true
     }
+    {
+      "ModuleId": "run-cowsay-onchain",
+      "Version": "v0.0.4",
+      "Enabled": true
+    }
   ]
   

@@ -1,34 +1,39 @@
 [
     {
-      "ModuleId": "lilypad-tech/cowsay",
+      "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-cowsay",
       "Version": "v0.0.4",
       "Enabled": true
     },
     {
-      "ModuleId": "lilypad-tech/sdxl-pipeline",
+      "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-sdxl-pipeline",
       "Version": "v1.2.0",
       "Enabled": true
     },
     {
-      "ModuleId": "lilypad-tech/sdv-pipeline",
+      "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-sdv-pipeline",
       "Version": "v1.1.0",
       "Enabled": true
     },
     {
-      "ModuleId": "lilypad-tech/ollama-pipeline",
+      "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-ollama-pipeline",
       "Version": "v2.0.0",
       "Enabled": true
     },
     {
-      "ModuleId": "lilypad-tech/lilysay",
-      "Version": "v0.0.1",
+      "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-lilysay",
+      "Version": "v0.5.2",
       "Enabled": true
     },
     {
-      "ModuleId": "lily-synthetizoor",
+      "ModuleId": "https://github.com/Lilypad-Tech/lily-synthetizoor",
       "Version": "v0.3.0",
       "Enabled": true
     },
+    {
+      "ModuleId": "https://github.com/Lilypad-Tech/module-phi2",
+      "Version": "v0.0.1",
+      "Enabled": true
+    }
     {
       "ModuleId": "run-cowsay-onchain",
       "Version": "v0.0.4",

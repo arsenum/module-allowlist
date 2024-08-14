@@ -33,7 +33,7 @@
       "ModuleId": "https://github.com/Lilypad-Tech/module-phi2",
       "Version": "v0.0.1",
       "Enabled": true
-    }
+    },
     {
       "ModuleId": "run-cowsay-onchain",
       "Version": "v0.0.4",

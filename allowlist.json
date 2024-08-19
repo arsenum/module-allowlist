@@ -7,7 +7,9 @@
     {
       "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-sdxl-pipeline",
       "Version": "v1.2.0",
-      "Enabled": true
+      "Enabled": true,
+      "Cid": "QmbGTyk1NHFBsifgL6ZkwrRtVVswpaMFWfzoYEShqbQ2Ze"
+        
     },
     {
       "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-sdv-pipeline",

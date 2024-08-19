@@ -2,7 +2,8 @@
     {
       "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-cowsay",
       "Version": "v0.0.4",
-      "Enabled": true
+      "Enabled": true,
+      "Cid":"Qmeb4U8Uzcbe51STtAigFSJKu6eFuVFeAd7gW9iagk4s3t"  
     },
     {
       "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-sdxl-pipeline",

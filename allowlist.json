@@ -37,16 +37,11 @@
       "Version": "v0.0.1",
       "Enabled": true
     },
-      {
-      "ModuleId": "https://github.com/arsenum/GPU",
+    {
+      "ModuleId": "https://github.com/arsenum/test2",
       "Version": "latest",
       "Enabled": true
     },
     
-    {
-      "ModuleId": "run-cowsay-onchain",
-      "Version": "v0.0.4",
-      "Enabled": true
-    }
   ]
   

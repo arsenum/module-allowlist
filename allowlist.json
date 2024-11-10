@@ -12,11 +12,7 @@
       "Cid": "QmbGTyk1NHFBsifgL6ZkwrRtVVswpaMFWfzoYEShqbQ2Ze"
         
     },
-    {
-      "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-sdv-pipeline",
-      "Version": "v1.1.0",
-      "Enabled": true
-    },
+    
     {
       "ModuleId": "https://github.com/Lilypad-Tech/lilypad-module-ollama-pipeline",
       "Version": "v2.0.0",
